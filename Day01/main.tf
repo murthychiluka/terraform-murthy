@@ -14,3 +14,5 @@ resource "aws_instance" "web" {
     Name = "Dev-Server"
   }
 }
+
+8523078489
