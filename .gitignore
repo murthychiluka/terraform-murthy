@@ -17,3 +17,15 @@
   secrets.auto.tfvars
   terraform.tfvars
   .env
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Variables
+*.tfvars
+*.tfvars.json
+
+# Crash logs
+crash.log
