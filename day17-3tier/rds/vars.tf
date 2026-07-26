@@ -71,7 +71,7 @@ variable "publicly_accessible" {
 
 variable "backup_retention_period" {
   type    = number
-  default = 7
+  default = 1
 }
 
 variable "skip_final_snapshot" {
