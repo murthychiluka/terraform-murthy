@@ -29,3 +29,4 @@
 
 # Crash logs
 crash.log
+.terragrunt-cache/

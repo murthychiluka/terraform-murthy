@@ -15,6 +15,7 @@ terraform {
 # Dev specific inputs
 inputs = {
   environment = "dev"
+  project = "poc"
 
   # Small CIDR for dev
   vpc_cidr = "10.0.0.0/16"
