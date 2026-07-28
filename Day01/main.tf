@@ -15,4 +15,3 @@ resource "aws_instance" "web" {
   }
 }
 
-8523078489
